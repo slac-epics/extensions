@@ -1,0 +1,8 @@
+#
+# RELEASE_NOTES
+# extensions
+#
+R1.2.0	2022-10-13	Jesse Bellister
+
+	Updated labca to R3.8.0 - Generates additional help files which were missing in previous builds (CATER 158214)
+        Updated StripTool to R2.5.18.0-1.1.0 - Fixes an issue where plots would not print in color to the elog (CATER 147920)
