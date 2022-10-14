@@ -2,6 +2,10 @@
 # RELEASE_NOTES
 # extensions
 #
+R1.2.1  2022-10-13      Jesse Bellister
+
+	Revert eget to R0.0.0-0.0.2 - User reported issue with eget R0.0.0-0.0.3 command returning results in a different format (using quotation marks). This breaks multiple existing scripts.
+
 R1.2.0	2022-10-13	Jesse Bellister
 
 	Updated labca to R3.8.0 - Generates additional help files which were missing in previous builds (CATER 158214)
