@@ -3,7 +3,7 @@
 # extensions
 #
 R1.3.1  2023-05-18      Jesse Bellister
-        Update labca to R3.8.1-0.1.1 - Fixes an issue where calling lcaClear could lead to a
+        Update labca to R3.8.1-0.2.0 - Fixes an issue where calling lcaClear could lead to a
                                        deadlock and freeze the application.
 
         Add p4p R4.1.6-1.0.0 - Provides the ability to run PVA gateways
@@ -12,7 +12,7 @@ R1.3.0  2023-03-13      Jesse Bellister
         Update eget to R0.0.0-0.0.4. - Now builds against EPICS base R7.0.6.1-1.0 to fix the
                                        quotation mark output issue seen in R0.0.0-0.0.3.
         
-        Update labca to R3.8.1-0.1.1 - Includes a fix to get it to work with MATLAB 2022b. Also includes
+        Update labca to R3.8.1-0.1.0 - Includes a fix to get it to work with MATLAB 2022b. Also includes
                                        the option to enable debugging output (lcaDebugOn/lcaDebugOff).
 
         Removes procServ - Per recommendation from Bruce Hill: procServ doesn't build with the EPICS build
