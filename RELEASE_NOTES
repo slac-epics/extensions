@@ -2,6 +2,9 @@
 # RELEASE_NOTES
 # extensions
 #
+R1.3.3  2023-08-30      Nolan Stelter
+        Update StripTool to R2.5.18.0-2.0.0 - Fixes segfault when removing single connection.
+
 R1.3.2  2023-06-12      Jesse Bellister
         Update fwdCliS to R1.2.7 - Fixes segfault when receiving messages.
                                    Updates code to support running on 64 bit machines.
