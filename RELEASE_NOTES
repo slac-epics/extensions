@@ -2,6 +2,17 @@
 # RELEASE_NOTES
 # extensions
 #
+R1.4.0  2024-10-11	Jeremy Lorelli
+	Update Camcom to R3.1.0
+	Update ALH to R1.2.35-1.1.0
+	Update EDM to R1.12.105B-1.4.0
+	Update Probe to R.1.1.8.0-0.2.1
+	Update gateway to R2.1.3.0-1.1.3
+	Update p4p to R4.1.6-1.0.1
+	Update caSnooper to R2.1.2.3-0.2.0
+	Update iocLogMsgServer to R1.11.0
+    Update VisualDCT to R2.7.0-0.1.1
+
 R1.3.3  2023-08-30      Nolan Stelter
         Update StripTool to R2.5.18.0-2.0.0 - Fixes segfault when removing single connection.
 
