@@ -2,6 +2,9 @@
 # RELEASE_NOTES
 # extensions
 #
+R1.4.2  2025-05-05  Jeremy Lorelli
+    Downgrade p4p to R4.1.6-1.0.0. Needs additional testing with Python 3.10
+
 R1.4.1  2025-04-29  Jeremy Lorelli
     Update Camcom to R3.1.1
 
