@@ -2,6 +2,9 @@
 # RELEASE_NOTES
 # extensions
 #
+R1.5.0  2025-09-17  Jeremy Lorelli
+    Update P4P to R4.1.7-1.1.0
+
 R1.4.2  2025-05-05  Jeremy Lorelli
     Downgrade p4p to R4.1.6-1.0.0. Needs additional testing with Python 3.10
 
