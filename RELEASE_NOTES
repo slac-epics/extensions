@@ -2,6 +2,9 @@
 # RELEASE_NOTES
 # extensions
 #
+R1.6.0  2026-XX-XX  Jeremy Lorelli
+    Add ca-nameserver R2.1.0-1.0.0
+
 R1.5.0  2025-09-17  Jeremy Lorelli
     Update P4P to R4.1.7-1.1.0
 
